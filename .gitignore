@@ -1,0 +1,6 @@
+node_modules/
+uncaughtExceptions.log
+coverage/
+tests/
+logfile.log
+config/development.json
